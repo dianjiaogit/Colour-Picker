@@ -1,0 +1,5 @@
+# Artist Statement
+
+Write your artist statement in this file (max 200 words).
+
+In this assignment, it requires me to design a colour picker that needs to be challenging. At first, I had some interesting ideas such as combining colour picker with dart game. However, I did not choose this idea as I don’t know how to deal with the dart throwing action. Therefore, I changed my track of thinking. The idea I came up must be both challenging and easy to be written. So the challenge I set in my colour picker is the moving buttons. The Red, Green and Blue button keep changing their positions with each other. So the user cannot click on the buttons they want very easily. However, the buttons are changing too fast at the beginning, and users are impossible to click on the right button, so I changed the time setting many times to make sure that it is still not easy to get the right button, but it is not too difficult to do it as well. Through using my colour picker, I want the viewer to feel a bit annoyed. But when they are familiar with the rate of change. They can become accustomed.
